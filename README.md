@@ -1,11 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
- <a href="https://github.com/nereasastre/MTL_P52">
-    <img src="pitch.png" alt="Logo" height="200px">
-  </a>
   <h3 align="center">Sign Language Gloss Translation</h3>
-
   <p align="center">
     Degree Final Dissertation 2021-2022 Automatic Sign Language Gloss Translation using Deep Learning Models
   </p>
